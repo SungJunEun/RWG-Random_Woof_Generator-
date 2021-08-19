@@ -16,10 +16,9 @@ function displaywoof(res) {
           let number = generateRandomInteger(24);
           const data = res.data.children[number].data;
           if(data.post_hint === 'image') {
-            console.log(data.url);
-            break;
+            return data.url;
             }
   }
 }
 
-woof("samoyeds");
+woof("samoyeds"); // husky, shiba, germanshepards,...
