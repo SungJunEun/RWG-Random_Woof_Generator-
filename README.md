@@ -1,3 +1,3 @@
-# Enjoy your day with samoyeds
-## Add samoyeds to your project by fetching a different image every hour
-![alt text](https://raw.githubusercontent.com/antoinetardivel/fetchSamoyeds/main/Samoyed.jpg)
+## fetching random image from new posts in r/samoyeds!
+### installation of node-fetch
+> $ npm install node-fetch
