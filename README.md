@@ -26,3 +26,5 @@
   - `generateRandomInteger` function for random objects
   - `post_hint` attribute helped me to determine whether the post is only image or not
 
+![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/60536942/133958596-1329c565-6ba4-4058-9ebf-ddf4efe2dfbb.gif)
+
